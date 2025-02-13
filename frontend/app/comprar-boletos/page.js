@@ -1,7 +1,7 @@
 import React from "react";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
-import TicketPurchase from "@/components/TicketPurchase";
+import Navbar from "../../components/Navbar";
+import Footer from "../../components/Footer";
+import TicketPurchase from "../../components/TicketPurchase";
 
 export default function ComprarBoletosPage() {
   return (

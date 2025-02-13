@@ -17,16 +17,16 @@ const Footer = () => {
           <div>
             <h3 className="text-white font-semibold mb-4">Enlaces</h3>
             <div className="space-y-2">
-              <Link href="/eventos" className="block text-gray-400 hover:text-white">
+              <Link href="/Eventos" className="block text-gray-400 hover:text-white">
                 Eventos
               </Link>
-              <Link href="/galeria" className="block text-gray-400 hover:text-white">
+              <Link href="/Galeria" className="block text-gray-400 hover:text-white">
                 Galería
               </Link>
-              <Link href="/nosotros" className="block text-gray-400 hover:text-white">
+              <Link href="/Nosotros" className="block text-gray-400 hover:text-white">
                 Nosotros
               </Link>
-              <Link href="/ubicacion" className="block text-gray-400 hover:text-white">
+              <Link href="/Ubicacion" className="block text-gray-400 hover:text-white">
                 Ubicación
               </Link>
             </div>
